@@ -2,12 +2,13 @@
 In this analysis, we are helping the manager of a company to prepare for a large amount of current employees to approach retirement age. We determine the number of retiring employees per title and identify employees eligible for the mentorship program.
 
 # Resources
-Data source: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
-<p>Software: PostgreSQL 11, pgAdmin 4 Version 6.4
+Data source: 
+<p>departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
+<p>Software: 
+<p>PostgreSQL 11, pgAdmin 4 Version 6.4
 
 
 # Results
-### Four major points from Deliverables 1 & 2
 - 54,048 employees will be retiring.
 - Two-thirds of retirees are engineers
 - Over half of retirees are senior engineers.
